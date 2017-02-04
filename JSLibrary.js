@@ -1,5 +1,3 @@
 var Lib = {
-  stor:function(data) {
-      data="t";
-  }
+  codes:["FIRE"]
 };
