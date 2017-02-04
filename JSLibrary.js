@@ -1,5 +1,5 @@
 var Lib = {
-  Rect:function(x,y,w,h) {
-    rect(200,200,50,50);
+  stor:function(data) {
+      data="t"
   }
 };
